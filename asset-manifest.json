@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-olives/static/css/main.55ea2986.css",
+    "main.js": "/react-olives/static/js/main.70cf4880.js",
+    "static/js/879.a38bd066.chunk.js": "/react-olives/static/js/879.a38bd066.chunk.js",
+    "static/js/422.30156a7e.chunk.js": "/react-olives/static/js/422.30156a7e.chunk.js",
+    "static/media/lifecare.png": "/react-olives/static/media/lifecare.8ed50624cf10c687d54f.png",
+    "static/media/olive.jpg": "/react-olives/static/media/olive.249205f8eb7656ef468a.jpg",
+    "static/media/NTLoading.gif": "/react-olives/static/media/NTLoading.3f8355d0a017aa6adb48.gif",
+    "static/media/smartsave.png": "/react-olives/static/media/smartsave.88d863106400c278cfc3.png",
+    "static/media/executivecare.png": "/react-olives/static/media/executivecare.e69ad18efb03041ad82a.png",
+    "static/media/educare.png": "/react-olives/static/media/educare.aacd6c9b020a3c449a10.png",
+    "static/media/secureincome.png": "/react-olives/static/media/secureincome.bcbdf431b26d053cc9c7.png",
+    "static/media/resize.svg": "/react-olives/static/media/resize.1ba83bfa2d8c02f7c0550aace5483946.svg",
+    "static/media/delete.svg": "/react-olives/static/media/delete.0556bb7530b152141ec3d369c2ca2019.svg",
+    "static/media/cardlayout.svg": "/react-olives/static/media/cardlayout.501e2beb973288a73d588bc9e189d8e0.svg",
+    "static/media/edit.svg": "/react-olives/static/media/edit.3c70b53795b8b86b5bd469f2d48afc3b.svg",
+    "static/media/add.svg": "/react-olives/static/media/add.d1d0abf8f7da1a5319c4ad3657d4ffcc.svg",
+    "static/media/right-arrow.svg": "/react-olives/static/media/right-arrow.bafb92c9a18bf3491407c8900fa35096.svg",
+    "static/media/left-arrow.svg": "/react-olives/static/media/left-arrow.f8eff49dd7071403445cb3690455517b.svg",
+    "static/media/list.svg": "/react-olives/static/media/list.f71c537746cae549364f3c69db5bee21.svg",
+    "index.html": "/react-olives/index.html",
+    "static/media/dots.svg": "/react-olives/static/media/dots.0ddeb0f2e474566f75f52526634ae241.svg",
+    "static/media/table.svg": "/react-olives/static/media/table.ae9ea0408cc9c53add60da929db5e61d.svg",
+    "static/media/down-arrow.svg": "/react-olives/static/media/down-arrow.1a6f92cc90c42fb40829bd2c5add085b.svg",
+    "main.55ea2986.css.map": "/react-olives/static/css/main.55ea2986.css.map",
+    "main.70cf4880.js.map": "/react-olives/static/js/main.70cf4880.js.map",
+    "879.a38bd066.chunk.js.map": "/react-olives/static/js/879.a38bd066.chunk.js.map",
+    "422.30156a7e.chunk.js.map": "/react-olives/static/js/422.30156a7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55ea2986.css",
+    "static/js/main.70cf4880.js"
+  ]
+}
