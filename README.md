@@ -1,7 +1,7 @@
 ## Dependencies
 Ovaj projekt koristi sljedeće pakete:
 
-[Moment](https://momentjs.com/) ^2.29.1
+[Moment](https://momentjs.com/) ^2.29.1 - JavaScript biblioteka za parsiranje, manipulaciju, formatiranje i prikaz datuma i vremena.
 
 # Getting Started with Create React App
 
