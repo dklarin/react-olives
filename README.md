@@ -1,8 +1,7 @@
-## Dependencies
-Ovaj projekt koristi sljedeće pakete:
+## Built With
 
-[Moment](https://momentjs.com/) ^2.29.1 - JavaScript biblioteka za parsiranje, manipulaciju, formatiranje i prikaz datuma i vremena.
-[polished](https://polished.js.org/) ^4.0.3 - Jednostavni alatni paket za stiliziranje u JavaScriptu.
+* [Moment](https://momentjs.com/) ^2.29.1 - JavaScript biblioteka za parsiranje, manipulaciju, formatiranje i prikaz datuma i vremena.
+* [polished](https://polished.js.org/) ^4.0.3 - Jednostavni alatni paket za stiliziranje u JavaScriptu.
 
 # Getting Started with Create React App
 
@@ -66,5 +65,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
