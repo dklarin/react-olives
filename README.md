@@ -2,6 +2,7 @@
 Ovaj projekt koristi sljedeće pakete:
 
 [Moment](https://momentjs.com/) ^2.29.1 - JavaScript biblioteka za parsiranje, manipulaciju, formatiranje i prikaz datuma i vremena.
+[polished](https://polished.js.org/) ^4.0.3 - Jednostavni alatni paket za stiliziranje u JavaScriptu.
 
 # Getting Started with Create React App
 
