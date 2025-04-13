@@ -2,6 +2,7 @@
 
 * [Moment](https://momentjs.com/) ^2.29.1 - JavaScript biblioteka za parsiranje, manipulaciju, formatiranje i prikaz datuma i vremena.
 * [polished](https://polished.js.org/) ^4.0.3 - Jednostavni alatni paket za stiliziranje u JavaScriptu.
+* [styled-components](https://styled-components.com/) ^5.2.1 - Styled-components su biblioteka za React koja omogućuje pisanje CSS-a direktno unutar JavaScript koda koristeći koncept tagged template literals.
 
 # Getting Started with Create React App
 
